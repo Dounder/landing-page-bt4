@@ -1,0 +1,52 @@
+img {
+    border-radius: 10px;
+}
+
+
+/* id's */
+
+#header nav>div a:hover {
+    color: white;
+}
+
+#link-2 {
+    background-color: #343a40;
+    padding: 1rem 0;
+}
+
+#link-2-content-right img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: relative;
+}
+
+#link-2-content-right .overlay {
+    position: absolute;
+    bottom: 0;
+    left: auto;
+    color: black;
+    z-index: 1;
+    text-align: center;
+    padding-left: 1rem;
+}
+
+#link-4 {
+    background-color: #343a40;
+}
+
+#link-5 img {
+    width: 60%;
+    padding: 0 auto;
+}
+
+
+/* clases */
+
+.parrafo {
+    font-size: 1.2rem;
+}
+
+.title {
+    font-size: 1.8rem;
+}
